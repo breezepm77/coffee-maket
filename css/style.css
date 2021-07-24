@@ -1,4 +1,4 @@
-/* body{
+ body{
     font-family: 'Fraunces 9pt',sans-serif;
     background-image: linear-gradient(#fdf9ee,#fff);
    background-repeat: no-repeat;
@@ -73,17 +73,15 @@ margin-top: 300px;
 }
 .wrapper-heading1{
     position: absolute;
-    width: 1111px;
     height: 196px;
     left: 165px;
     top: 849px;
     background: linear-gradient(180deg, rgba(254, 252, 247, 0.0001) 0%, #FEFCF7 100%);
     mix-blend-mode: normal;
-    font-size: 160px;
+    font-size: 250px;
     margin-top: 1px;
-    margin-left: 300px;
+    margin-left: 260px;
     opacity: 0.1; 
-    margin-left: 180px;
 }
 .wrapper-text{
     margin-left: 105px;
@@ -275,4 +273,10 @@ font-size: 13px;
 }
 .footer-img1{
     margin-left: 20px;
-} */
+}
+.heading22:hover{
+    opacity: 0.8;
+}
+.heading2:hover{
+    opacity: 0.8;
+}
