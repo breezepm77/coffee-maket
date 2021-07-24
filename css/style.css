@@ -1,4 +1,4 @@
- body{
+/*body{
     font-family: 'Fraunces 9pt',sans-serif;
     background-image: linear-gradient(#fdf9ee,#fff);
    background-repeat: no-repeat;
@@ -280,3 +280,6 @@ font-size: 13px;
 .heading2:hover{
     opacity: 0.8;
 }
+.footer-img1:hover{
+    opacity: 0.6;
+}*/
