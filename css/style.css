@@ -1,4 +1,4 @@
-/*body{
+body{
     font-family: 'Fraunces 9pt',sans-serif;
     background-image: linear-gradient(#fdf9ee,#fff);
    background-repeat: no-repeat;
@@ -57,8 +57,6 @@ height: 600px;
     list-style-type: none;
 }
 .wrapper--img2{
-    width: 400px;
-    height: 393px;
     margin-left: -10px;
 margin-top: 300px;
 }
@@ -66,13 +64,12 @@ margin-top: 300px;
     margin-top: -130px;
     margin-left: 100px;
     font-size: 42px;
-    color: #333D4B;
 }
 .wrapper--heading1{
     position: absolute;
     left: 165px;
     top: 849px;
-    background: linear-gradient(180deg, rgba(254, 252, 247, 0.0001) 0%, #FEFCF7 100%);
+    background-image:linear-gradient(0%,60%rgba(254, 252, 247, 0.0001),60%,40%rgba(254, 252, 247, 1));
     mix-blend-mode: normal;
     font-size: 210px;
     margin-top: 1px;
@@ -94,8 +91,6 @@ margin-top: 300px;
     color: #333D4B;
 }
 .wrodded--img2{
-    width: 400px;
-    height: 393px;
     margin-left: 370px;
 margin-top: -500px;
 }
@@ -111,8 +106,6 @@ margin-top: -500px;
     color: #333D4B;
 }
 .drowwer--img2{
-    width: 400px;
-    height: 393px;
     margin-left: 780px;
 margin-top: -820px;
 }
@@ -127,7 +120,6 @@ margin-top: -820px;
     color: #333D4B;
 }
 .dropped--img2{
-    width: 350px;
     margin-left: 1200px;
     height: 200px;
 }
@@ -280,4 +272,4 @@ font-size: 13px;
 }
 .footer__rofiq--img1:hover{
     opacity: 0.6;
-}*/
+}
